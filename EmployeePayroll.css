@@ -171,6 +171,14 @@ margin-left: 640px;
 border: none;
 }
 
+error-output {
+	font-size: 12px;
+	font-style:  bold;
+	margin-left: 10px;
+	font-family: 'Times New Roman', Times, serif;
+	color: red;
+}
+
 @media only screen and(max-width:960px){
 
 	.form{
@@ -215,10 +223,3 @@ border: none;
 	}
 }
 
-error-output {
-		font-size: 12px;
-		font-style:  bold;
-		margin-left: 10px;
-		font-family: 'Times New Roman', Times, serif;
-		color: red;
-}
